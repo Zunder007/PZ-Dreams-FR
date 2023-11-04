@@ -1,0 +1,4 @@
+UI_FR = {
+UI_trait_Snoring = "Ronflements",
+UI_trait_SnoringDesc = "Souffre de ronflements et peut ronfler bruyamment pendant son sommeil.",
+}
