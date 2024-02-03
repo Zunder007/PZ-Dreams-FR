@@ -1,12 +1,10 @@
 IGUI_FR = {
-
-
 --- Dreams Window ---	
 	IGUI_Dreams_Window = "Rêve #",	
 
 
 --- Phrases of the character ---
-	IGUI_NoDream0 = "Je n'ai pas rêvé, semble-t-il ...",
+	IGUI_NoDream0 = "Je n'ai pas rêvé on dirait...",
 	IGUI_NoDream1 = "Je ne me souviens pas de ce dont j'ai rêvé.",
 	IGUI_NoDream2 = "Il semblerait qu'il n'y ait pas eu matière à rêver.",
 	IGUI_NoDream3 = "Je n'ai aucun souvenirs de ce dont j'ai rêvé.",
@@ -22,12 +20,30 @@ IGUI_FR = {
 	IGUI_NoDream12 = "Bien... je devrais probablement aller me laver...",
 	IGUI_NoDream13 = "Se réveiller vivant est déjà une excellente nouvelle !",
 	IGUI_NoDream14 = "Aaah... mon bras est engourdi...",
-	
+	--- Update 33 ---- +17 character phrases -------------------------------------------------
+	IGUI_NoDream15 = "Je ne me souviens pas de mon rêve... pourtant je crois que c'était drôle.",
+	IGUI_NoDream16 = "Mon rêve a disparu; envolé comme un voile de fumée.",
+	IGUI_NoDream17 = "Je crois avoir rêvé mais je ne me souviens de rien.",
+	IGUI_NoDream18 = "Le rêve s'est enfuit on dirait. Je n'en ai aucun souvenir.",
+	IGUI_NoDream19 = "Peut-être ai-je rêver, mais ma mémoire est vide.",
+	IGUI_NoDream20 = "Je n'ai aucun souvenirs de mes rêves.",
+	IGUI_NoDream21 = "Ce rêve était tellement bizarre, je ne me souviens pas des détails.",
+	IGUI_NoDream22 = "Les souvenirs du rêve semblent s'être estompé.",
+	IGUI_NoDream23 = "Je ne me souviens pas de mon rêve même si je sais que j'en ai fait un.",
+	IGUI_NoDream24 = "Le rêve a disparu, s'échappant hors de mon esprit comme du sable entre mes doigts.",
+	IGUI_NoDream25 = "Je ne peux pas décrire mon rêve parce que je ne me souviens pas des détails.",
+	IGUI_NoDream26 = "Je crois que je rêvais à quelque chose d'étrange, mais je ne me souviens plus de quoi il s'agissait.",
+	IGUI_NoDream27 = "Mon rêve était incompréhensible; je n'arrive pas le décrire.",
+	IGUI_NoDream28 = "Ce rêve était si vivant, mais maintenant je ne me souviens plus de quoi il s’agissait.",
+	IGUI_NoDream29 = "Ai-je rêvé? Les souvenirs semble s'être estompé.",
+	IGUI_NoDream30 = "Je ne me souviens pas d'un seul détail de mon rêve.",
+	IGUI_NoDream31 = "Mince, ce rêve avait quelque chose d’important; je ne me souviens plus de ce que c'était...",
+
 --- Character phrases after sleep ---
 	IGUI_Dream33_Say = "C'est dommage que ce ne soit qu'un rêve.",
 	IGUI_Dream63_Say = "Hmm. J'ai fait un rêve étrange...", --- New text version (changed) 
 	IGUI_Dream10_Say = "Quel rêve agréable j'ai fait.",
-	IGUI_Dream18_Say = "Eh. Un rêve si triste ...",
+	IGUI_Dream18_Say = "Eh... Un rêve si triste...",
 	IGUI_Dream19_Say = "Seigneur, encore le même rêve.",
 	IGUI_Dream55_Say = "Ces rêves empirent...",
 	IGUI_Dream85_Say = "Quel rêve étrange !",
@@ -38,8 +54,8 @@ IGUI_FR = {
 
 	IGUI_Dream1 = "A proximité d'un immeuble ordinaire, une femme assez malade est allongée sous une couverture. Elle m'a demandé de me dépêcher d'aller à la pharmacie et d'acheter les pilules. Je cours acheter les pilules mais je ne me souviens pas du moment de l’achat. Ensuite, je reviens avec des pilules, mais la femme est déjà morte. J'entends une sirène de voiture, je tourne la tête mais il n'y a pas de voiture. Retour en arrière. Tout est exactement pareil : la situation, la femme, la couverture ... Mais elle est de nouveau en vie, et me demande d'aller à la pharmacie. Je cours à nouveau à la pharmacie en réalisant qu'elle va mourir. Alors je reviens; et elle est morte.",
 	
-	IGUI_Dream2 =	"I’m standing in some apartment and looking at the table, I see on the table some - two objects and keys. I take objects and keys from the table, I leave the apartment. The landing is very narrow and long, with mailboxes hanging along the wall. I put the keys in one of the boxes and go down to the first floor. I went outside and I heard a voice in my head. - Today, a convoy carrying 2 items passed through the city, you stole them, and now you have to hide ... Be careful, they sent for you. Suddenly I see some strange person, this is not a person, this is a silhouette of a person, consisting of television noise. Again a strange voice in my head. - This is a man-noise. He is looking for you. Run ... Run into the yards. Strange, but for some reason there are no people around. I understand that this way he will easily find me ...",	
-
+	IGUI_Dream2 = "Je suis dans un appartement et je regarde la table, je vois des trucs sur la table - deux objets et des clés. Je prends les objets et les clés sur la table, je sors de l'appartement. Le palier est très étroit et long, avec des boîtes aux lettres accrochées le long du mur. Je mets les clés dans une des boîtes aux lettres et je descends au premier étage. Je suis sorti et j'entends une voix dans ma tête. - Aujourd'hui, un convoi transportant 2 objets a traversé la ville, vous les avez volés, et maintenant vous devez vous cacher... Soyez prudent, ils sont à vos trousses. Soudain, je vois une personne étrange, ce n'est pas une personne, c'est la silhouette d'une personne, constituée de parasite de télévision. Encore une voix étrange dans ma tête. - C'est une voix d'homme. Il te cherche. Cours... Cours à travers les jardins. Étrange, mais pour une raison indéfinie, il n'y a personne autour de moi. Je comprends qu'ainsi il me retrouvera facilement...",
+	
 	IGUI_Dream3 = "I am scared and I have a strong feeling that they are watching me and are being persecuted. I take one of the items taken in the apartment from the table from my pocket and throw it on the ground in front of me. The subject flew into the air, began to stretch out and turned into some kind of long thick worm, painted in a rainbow. The worm curled up into an eight and this eight just rotates in the air. And again this voice .. - Ultimatum of pain ... Now the eyes of the whole world will be riveted to this place. Run! I'm running back to the apartment. Check if the keys are in place. All this time I’m very nervous about the feeling of persecution. What should I do? I run out into the street. Dark. Some strange darkness that appeared in the middle of the day ...",	
 
 	IGUI_Dream4 = "A strange place. Cramped room, very low ceiling, you have to move crouched. Two doors, both closed by bolts from thick black boards. The boards feel cold, wet and slippery. I try to move the bolt, nothing happens, my hands slide on the surface. Something sticky on the palms ...",		
